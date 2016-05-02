@@ -1,7 +1,5 @@
 # Spring-IOC-Practice
 
-Spring-IOC-Practice
-
 Created following simple applications to understand features of Spring core module.
 
 1.DI using Constructor Way(Dependency Injection using constructor way)
